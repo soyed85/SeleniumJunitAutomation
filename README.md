@@ -29,7 +29,7 @@ Before running the tests, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashraf4343/SeleniumJunitAutomation.git
+   git clone https://github.com/
 Open the project in your Java IDE.
 
 Set up dependencies and configurations as needed.
